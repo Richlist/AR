@@ -1,2 +1,0 @@
-# AR
-Animated QR-Codes
